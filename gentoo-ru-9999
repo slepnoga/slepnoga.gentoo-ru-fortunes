@@ -1607,3 +1607,25 @@ krigstask>> UTF-8 сейчас даже winamp умеет.
 <krigstask> Можно подумать, у тебя полклавиатуры из кнопок Mod4
 		--
 %
+<evadim> меня тут юзвери одолевают, где говоряд гентору? и джаббер с асей?
+<winterheart> это кто?
+<winterheart> скажи им when it done
+<winterheart> хаха
+<winterheart> раз делать нечего, пойду погоняю в опенарену
+<evadim> хы
+*evadim вспомнил про анимэ и варзон
+<winterheart> мууувики!!!
+<evadim> дооо!!! мувикиии и оннмэ!!!
+<evadim> winterheart: кстати, можно в варзон зарубиться по сети
+
+		-- Команда gentoo.ru восстанавливает работоспособность сервера
+%
+<LexsZero> ня
+<LexsZero> а я баг в портаже нашел
+<LexsZero> $ emerge --info
+Traceback (most recent call last):
+[далее следует traceback]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe3 in position 16: ordinal not in range(128)
+<LexsZero> питон настолько говно, что он не осиливает мои кандзи в версии ядра?
+		-- (g@c.j.r)
+%
