@@ -1590,7 +1590,7 @@ krigstask>> UTF-8 сейчас даже winamp умеет.
 <krigstask> Мы все стесняемся
 		-- krigstask (g@c.g.r)
 %
-*** winterheart har satt ämnet till: https://transifex.gentoo.ru in production! || winterheart, как там quiz'ы?
+*** winterheart установил тему: https://transifex.gentoo.ru in production! || winterheart, как там quiz'ы?
 		--
 %
 <xscrew> пойду убунту попробую :)
@@ -1614,6 +1614,7 @@ krigstask>> UTF-8 сейчас даже winamp умеет.
 <winterheart> раз делать нечего, пойду погоняю в опенарену
 <evadim> хы
 *evadim вспомнил про анимэ и варзон
+<krigstask> Онемэ
 <winterheart> мууувики!!!
 <evadim> дооо!!! мувикиии и оннмэ!!!
 <evadim> winterheart: кстати, можно в варзон зарубиться по сети
@@ -1628,4 +1629,10 @@ Traceback (most recent call last):
 UnicodeDecodeError: 'ascii' codec can't decode byte 0xe3 in position 16: ordinal not in range(128)
 <LexsZero> питон настолько говно, что он не осиливает мои кандзи в версии ядра?
 		-- (g@c.j.r)
+%
+<WiseLord> сервер gentoo-ru стоит у кого-то в частном порядке?
+<WiseLord> или где-то в датацентре?
+<alexxy> в датацентре
+<evadim> в «датацентре»
+		-- (g@c.g.r)
 %
