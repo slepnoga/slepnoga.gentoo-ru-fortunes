@@ -1674,3 +1674,26 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xe3 in position 16: ordinal
 ole, KDE4 rabotaet )
 		-- ATX-250 (g@c.g.r)
 %
+> Почему в генту такие кривые ебилды?
+Наверно их кто то искривляет =:).
+		-- slepnoga (gentoo.ru)
+%
+<krigstask> steven_1: для svn прокси прописал?
+<steven_1> вроде да, а где нужно? /etc/wgetrc ?
+		-- (g@c.g.r)
+%
+в /etc/conf.d/xdm написал DISPLAYMANAGER="kdm-3.5" (/usr/kde/3.5)
+хотя emerge мне ставил 4.3.1. не понятно.
+		-- sango (gentoo.ru)
+%
+А ваще /usr/src/linux это чисто лентяйская придумка создателей linux-*.eclass
+Нет бы написать АИ, который бы определял, какое из ядер самое хорошее
+Они все опять на пользователя свалили
+		-- Night Nord (g@c.g.r)
+%
+<krigstask> Всё как в лучших домах Лондо́на
+*><'> подумал что на монике новый битый пиксель, проверил пальцем, а это всего навсего точка над о
+<krigstask> Это не точка, а знак ударения
+*olegon чихнул и расставил ударения по всему тексту
+		-- (g@c.g.r)
+%
