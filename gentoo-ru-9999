@@ -2257,3 +2257,23 @@ SK: memtest86+
 [13:42:54] <krigstask> Да-да
 		-- Pitometsu (g@c.g.r)
 %
+<kaberc> Кто там мне рассказывал, как мультилиб ставить?
+<krigstask> Намереваешься плюнуть ему в лицо?
+		-- (g@c.g.r)
+%
+<kaberc> Ну просмотрел... Сейчас ещё udept'ом пройдусь...
+<kaberc> Так, а можно мне опции этой dep?
+<ruda> dep --help
+<ruda> на здоровьице
+		-- (g@c.g.r)
+%
+уря, aufs работает
+ядро собирается, гентушник доволен
+		-- L29Ah (g@c.j.r)
+%
+[15:04:53] <Anarchist> Правильно: grep smth file | wc -l
+[15:05:07] <reonaydo> Anarchist: хехе
+[15:05:14] <reonaydo> grep -c smth filename
+[15:05:52] <ruda> ну котики же
+		-- (g@c.g.r)
+%
