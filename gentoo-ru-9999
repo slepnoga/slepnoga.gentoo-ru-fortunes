@@ -2480,3 +2480,32 @@ nordwind: :-)
 <arsenicum> аккуратней с рекурсиями
 		-- (g@c.g.r)
 %
+<vprisivko> получается, если есть ntpd, ntp-client не нужен?
+<slep> совсем не нужен, и даже вреден
+<vprisivko> ок
+<vprisivko> где-то видел, что он deprecated
+<slep> кто ?
+<vprisivko> я
+		-- (g@c.g.r)
+%
+<lk4d4_1> 4.4 в срок был релиз
+<lk4d4_1> ожидайте завтра в убунте, послезавтра в генте
+<reonaydo> lk4d4_1: тонкий намёк, что в генту компилится кеды будут сутки? :-D
+		-- (g@c.g.r)
+%
+<maksbotan> >>> Emerging (1 of 1) www-client/chromium-6.0.472.14
+<maksbotan> мда
+<Celt> )
+<lk4d4> шо решил откатиться?
+<maksbotan> да
+<maksbotan> надоели опаньки
+		-- (g@c.g.r)
+%
+<slepnoga> Кто с гитом дружит ?
+<asmer> торвальдс
+<slepnoga> он далеко
+		-- (g@c.g.r)
+%
+ну барыжить оно интерсней и практичней , чем краснолазить :)
+		-- slepnoga (g@c.g.r)
+%
