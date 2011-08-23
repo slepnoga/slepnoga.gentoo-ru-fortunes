@@ -4434,3 +4434,105 @@ if you change core API, your plugins need to be able to say
 я только за, не зря же дедфудушка старался.
 		-- nevar (gentoo.ru)
 %
+<LK4D4> почему у меня скайп с SIGABRT падает?
+<alexxy> lk4d4: так все правильно ;) скайп - жертва ABRT
+		-- (g@c.g.r)
+%
+<mke2fs> mount -o ro,remount /
+<beresk_let> Мне реально стрёмно видеть эту команду в одной строке с таким ником.
+		-- (g@c.g.r)
+%
+<evadim> хо хо, вот я и дома!
+<evadim> alexxy: я его таки купил
+<daks> Дом? :)
+		-- (g@c.g.r)
+%
+<Dema> я тут нашёл для maksbotan'а драйвер covox в ядре.. :)
+<krigstask> Список драйверов для ботана?
+<krigstask> Он уже поддерживается ядром?
+<eegorov> krigstask: еще нет же
+<eegorov> надо патч Линусу отправить )
+<krigstask> Сделайте ядро, которым может пользоваться ботан, и только ботан
+будет им пользоваться!
+<eegorov> Hello Linus. The team has a new Gentoo developer. Please accept
+this patch to enable its in kernel.
+<eegorov> Symbol: CONFIG_MAKSBOTAN [=m]
+Type  : tristate
+<eegorov> ждем максботана в апстриме!
+		-- (g@c.g.r)
+%
+ [опять о монадах в Haskell]
+Такие туториалы обычно сравнивают монады с разными более простыми (?)
+концепциями. Например, с:
+1. Буритос
+2. Слонами
+3. Космическим костюмом, заполненным радиацией в океане рядом с яблоками
+		--
+%
+Давайте найдём дедфуду девку, может, он хоть шутить перестанет (-%Е
+		-- krigstask (g@c.g.r)
+%
+Ботан пишет на плюсах — получаются деньги.
+Дедфуд пишет на плюсах — получаются личкрафты
+		-- krigstask (g@c.g.r)
+%
+<qnikst> я подозреваю, что ты не смотрел аниме нормаль
+<qnikst> это тоже самое что сказать, что фильмы отстой
+<qnikst> фраза "все негры тупые" и то ближе к истине )
+<noga> а оно так и есть :)
+<evadim> смачно вбросил
+		-- (g@c.g.r)
+%
+<maksbotan> нога, ты ошалел?
+<mva> maksbotan: чонада
+<Night Nord> mva - нога
+<Night Nord> Теперь у нас, наконец-то, две ноги
+<Night Nord> Можно выкидывать костыль
+		-- (g@c.g.r)
+%
+<winterheart_> http://www.opennet.ru/opennews/art.shtml?num=31467
+<alexxy> winterheart_: [:|||||:] 
+<winterheart_> а я играю на бояне
+<alexxy> winterheart_: вот тебе еще и труба ===<(
+		-- (g@c.g.r)
+%
+<noga> нет нормальных, есть толко не обследованные
+		-- (g@c.g.r)
+%
+* ERROR: sys-devel/gcc-4.7.0_alpha20110806 failed (setup phase):
+* Please `export I_PROMISE_TO_SUPPLY_PATCHES_WITH_BUGS=1` or
+define it in your make.conf if you want to use this ebuild.
+This is to try and cut down on people filing bugs for a compiler
+we do not currently support.
+		-- analizer
+%
+<slepnoga> -Дфооо-бла= фоо-блалала
+<slepnoga> левая часть нихрена не стандартизирована
+<slepnoga> правая - не bool
+<krigstask> -Duse-bloody-gtk = i-daresay-yes
+<Котярка> -Denglish-motherfucker-do-you-speak-it=what
+		--
+%
+<sannysanoff> да я вообще расслабляюсь, покуда gcc компилится 8)
+<qnikst> учитывая, что это 4.6 наверное это последний момент когда ты
+расслабляешься
+		-- (g@c.g.r)
+%
+<Night Nord> А что за личкрафты@горг?
+<Night Nord> Для личкрафтов уже целый херд ввели?
+<0xd34df00d> А что такое херд и чо это надо?
+<Night Nord> 0xd34df00d: короче ты теперь как кеды
+<0xd34df00d> Night Nord: я как кеды?
+<0xd34df00d> У меня будет падать плазма?
+<0xd34df00d> Oh shi~
+		-- (g@c.g.r)
+%
+Варианты:
+...
+3) рассказать апстриму о существовании автотулзов, смаке, ...
+		-- slepnoga (gentoo.ru)
+%
+<Night Nord> И пока весь прогрессивный мир строит космические корабли
+для китайцев, ты впиливаешь в дерево личкрафты
+		-- (g@c.g.r)
+%
